@@ -6,7 +6,7 @@
         "boniface pereira <bonifacepereira@gmail.com>"
     ],
     "description": "A multipurpose alert and confirm plugin",
-    "main": "dist/jquery-confirm.min.js",
+    "main": ["dist/jquery-confirm.min.js","dist/jquery-confirm.min.css"],
     "keywords": [
         "jquery-plugin",
         "javascript",
